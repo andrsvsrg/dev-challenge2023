@@ -24,20 +24,20 @@ export class HeaderComponent extends HTMLElement {
     this.innerHTML = `
       <div class="menu-container">
          <div class="coatofarms-container">
-            <img src="../../assets/coat_of_arms.svg" alt="coat of arms">
+            <img src="./assets/coat_of_arms.svg" alt="coat of arms">
          </div>
          <div class="menu-location">
             <div>
-                <img src="../../assets/location.svg" alt="location">
+                <img src="./assets/location.svg" alt="location">
             </div>
             <div class="menu-button" >
-                <img src="../../assets/menu.svg" alt="menu">
+                <img src="./assets/menu.svg" alt="menu">
             </div>
             <span style="width: 20px; height: 20px;"> </span>                   
          </div>
          <div class="download-pdf-button">
            <div>
-                <img src="../../assets/download_pdf.svg" alt="download_pdf">
+                <img src="./assets/download_pdf.svg" alt="download_pdf">
             </div>
          </div>
       </div>`
