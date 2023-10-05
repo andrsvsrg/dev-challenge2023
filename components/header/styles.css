@@ -1,0 +1,20 @@
+.menu-container {
+    background-color: #1F1F1F;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 10px 32px;
+    height: 100%;
+
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-location {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.menu-location div, .download-pdf-button div {
+    cursor: pointer;
+}

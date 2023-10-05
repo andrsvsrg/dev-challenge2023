@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html, body {
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+
+.main-wrapper {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.navbar-wrapper {
+    width: 60px;
+    height: 100%;
+}
+
+.map-wrapper {
+    flex: 2.1;
+    height: 100%;
+}
+
+.filters-wrapper {
+    flex: 1;
+    height: 100%;
+    min-width: 490px;
+}

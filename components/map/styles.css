@@ -1,0 +1,72 @@
+.map-container {
+    height: 100%;
+    background-color: #7a7878;
+    position: relative;
+}
+
+canvas {
+    margin: 5%;
+    width: 90%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.map-container img {
+    margin: 5%;
+    width: 90%;
+    height: auto;
+    position: absolute;
+    z-index: 0;
+}
+
+.footer-bar {
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+
+}
+
+.points-container {
+    display: flex;
+    gap: 24px;
+    padding: 8px;
+    margin-top: 10px;
+}
+
+.filter-point {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+
+.filter-point .event-text {
+    margin-left: 10px;
+    max-width: 100px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.top-bar-login {
+    display: flex;
+    justify-content: flex-end;
+    gap: 36px;
+    position: relative;
+    right: 24px;
+    top:42px;
+}
+
+.top-bar-login span {
+    cursor: pointer;
+    color: #FFF;
+    /*font-family: e-Ukraine;*/
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 16px;
+}

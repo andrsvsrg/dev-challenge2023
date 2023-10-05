@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16131f1a-3c9d-468f-83b3-aa131781767b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/coat_of_arms.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cross-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/download_pdf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/filter-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/location.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/more-button.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/search-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ukraine-map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/eventsList/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/filters/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/header/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mainScreen/MainScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/map/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/names.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2VyM6e1I7H9V6ejmcavcxlMbt9i" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/karto/WebstormProjects/dev-challangeTest/dev-challange2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karto\WebstormProjects\dev-challange2\components\header" />
+      <recent name="C:\Users\karto\WebstormProjects\dev-challange2\components\filters" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karto\WebstormProjects\dev-challange2\components\mainScreen" />
+      <recent name="C:\Users\karto\WebstormProjects\dev-challange2\data" />
+      <recent name="C:\Users\karto\WebstormProjects\dev-challange2\components\map" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16131f1a-3c9d-468f-83b3-aa131781767b" name="Changes" comment="" />
+      <created>1695803693713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695803693713</updated>
+      <workItem from="1695803695085" duration="652000" />
+      <workItem from="1695844856250" duration="1856000" />
+      <workItem from="1695884233729" duration="9000" />
+      <workItem from="1695910438129" duration="614000" />
+      <workItem from="1695996851830" duration="7999000" />
+      <workItem from="1696019166045" duration="1380000" />
+      <workItem from="1696021420001" duration="1499000" />
+      <workItem from="1696024386963" duration="1634000" />
+      <workItem from="1696069183129" duration="10650000" />
+      <workItem from="1696090435047" duration="220000" />
+      <workItem from="1696107027000" duration="5871000" />
+      <workItem from="1696154817362" duration="599000" />
+      <workItem from="1696191414173" duration="6403000" />
+      <workItem from="1696260171912" duration="2624000" />
+      <workItem from="1696273416837" duration="5828000" />
+      <workItem from="1696282656082" duration="386000" />
+      <workItem from="1696331086120" duration="12818000" />
+      <workItem from="1696358134440" duration="11674000" />
+      <workItem from="1696372621531" duration="81000" />
+      <workItem from="1696407743944" duration="6426000" />
+      <workItem from="1696422222011" duration="26889000" />
+      <workItem from="1696495470469" duration="5647000" />
+      <workItem from="1696503088623" duration="23399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
