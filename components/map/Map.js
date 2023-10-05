@@ -203,7 +203,7 @@ export class MapComponent extends HTMLElement {
     this.innerHTML =
       `<div class="map-container">
         <canvas></canvas>  
-        <img src="../../assets/ukraine-map.svg" alt="map">    
+        <img src="./assets/ukraine-map.svg" alt="map">    
         <div class="top-bar-login">
             <span>Help Ukraine</span>
             <span>Log in</span>
