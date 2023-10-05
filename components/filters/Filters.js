@@ -241,7 +241,7 @@ export class FiltersComponent extends HTMLElement {
                 </div>
             </div>
             <div class="clear-filters-button">
-                <img src="../../assets/cross-icon.svg" alt="cross svg">
+                <img src="./assets/cross-icon.svg" alt="cross svg">
                 Clear All Filters
             </div>
             
